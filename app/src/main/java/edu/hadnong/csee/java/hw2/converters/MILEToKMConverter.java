@@ -22,7 +22,7 @@ public class MILEToKMConverter implements Convertible{
     }
 
     /**
-     * This is an interface converting kilometer.
+     * This is an interface method of converting kilometer.
     */
     public void convert() {
         kilometer = mile / 1.6;
