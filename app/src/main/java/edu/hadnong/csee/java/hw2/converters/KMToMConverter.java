@@ -22,7 +22,7 @@ public class KMToMConverter implements Convertible {
         return meter;
     }
     /**
-     * This is an interface.
+     * This is an interface method.
     */
     public void convert(){
         meter = kilometer * 1000;
